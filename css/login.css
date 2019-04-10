@@ -1,0 +1,12 @@
+.header{
+    height: 51px;
+    border-bottom: 1px solid #ddd;
+}
+.ico_list,.ico_member{
+    width: 26px;
+    height: 26px;
+    
+}
+.ico_logo{
+    max-height: 50px;
+}
